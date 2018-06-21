@@ -1,0 +1,1 @@
+/usr/bin/c++    -O3 -Wall -std=c++11    CMakeFiles/ecs.dir/function.cpp.o CMakeFiles/ecs.dir/ecs.cpp.o CMakeFiles/ecs.dir/io.cpp.o CMakeFiles/ecs.dir/DeployAlgorithm.cpp.o CMakeFiles/ecs.dir/predict.cpp.o CMakeFiles/ecs.dir/PredictAlgorithm.cpp.o CMakeFiles/ecs.dir/DataCenter.cpp.o CMakeFiles/ecs.dir/Tools.cpp.o  -o /home/big/sdk-gcc/bin/ecs -rdynamic 
